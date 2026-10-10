@@ -21,3 +21,12 @@ Buscar clientes que pueden comprar un producto nuevo:
 Cuando el cliente pregunta por otro producto, el bot le responde que revise el catálogo y envía
 el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente contenga
 "catálogo" o `wa.me/c/`, y mirar qué preguntó el cliente justo antes.
+
+## Conteo de entregas (DROPI, estado ENTREGADO, por mes de creación)
+
+| Momento | Septiembre | Octubre |
+|---|---|---|
+| 9 oct 2026, ~11:50 p. m. (base) | 4.725 | 719 |
+
+Método: `list_orders` con `status=ENTREGADO`, rango del mes, y búsqueda por `start` con
+`result_number=1` hasta encontrar el final. Entregadas en el día = conteo de las 10 p. m. − base.
