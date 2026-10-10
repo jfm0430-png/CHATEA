@@ -15,3 +15,9 @@ Buscar clientes que pueden comprar un producto nuevo:
   `[WhatsApp IA] Compra realizada` = true, ni etiquetas `Sincronizado con Dropi`, `SUBIR ORDEN`,
   `ORDEN SUBIDA POR CONFIRMAR`.
 - Que pregunten por un producto **diferente** al de su flujo.
+
+### Señal principal: el bot envió el catálogo
+
+Cuando el cliente pregunta por otro producto, el bot le responde que revise el catálogo y envía
+el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente contenga
+"catálogo" o `wa.me/c/`, y mirar qué preguntó el cliente justo antes.
