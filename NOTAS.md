@@ -49,3 +49,14 @@ Separar en categorías propias (no mezclar con entregas ni devoluciones):
 - Recargas a la Dropi Card
 - Pagos por transferencia a personas (ej. Daniel, Harol, Oscar), uno por persona
 - Cualquier otro movimiento: agrupar por su nombre y mostrarlo aparte
+
+## Resultado septiembre 2026 (pedidos creados en septiembre, billetera sept + oct hasta 11 oct)
+
+Mes del pedido por número de orden: septiembre = 87.906.119 a 91.500.000.
+
+| Concepto | Órdenes | Valor |
+|---|---|---|
+| Ganancia por entregadas | 4.725 | $187.020.166 |
+| Cobro flete inicial | 528 | −$13.201.236 |
+| Cobro devolución entrega no efectiva | 411 | −$5.764.327 |
+| Neto | | $168.054.603 |
