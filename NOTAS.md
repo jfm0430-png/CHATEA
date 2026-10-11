@@ -43,3 +43,9 @@ Las variantes pueden traer el número de orden al final; agrupar por el texto an
 
 Abonos por entregas (sumar como ganancia de entregadas):
 - `ENTRADA POR GANANCIA EN LA ORDEN COMO DROPSHIPPER`
+
+Separar en categorías propias (no mezclar con entregas ni devoluciones):
+- Descuentos por garantías
+- Recargas a la Dropi Card
+- Pagos por transferencia a personas (ej. Daniel, Harol, Oscar), uno por persona
+- Cualquier otro movimiento: agrupar por su nombre y mostrarlo aparte
