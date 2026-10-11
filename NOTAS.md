@@ -60,3 +60,17 @@ Mes del pedido por número de orden: septiembre = 87.906.119 a 91.500.000.
 | Cobro flete inicial | 528 | −$13.201.236 |
 | Cobro devolución entrega no efectiva | 411 | −$5.764.327 |
 | Neto | | $168.054.603 |
+
+## Cierre mensual (lo pide Johana cada mes)
+
+1. Johana sube el historial de cartera del mes y del mes siguiente (Excel de DROPI).
+2. Límites del mes por número de orden: primer pedido del mes y primer pedido del mes siguiente
+   (sacarlos con `list_orders` del primer día, pocas consultas). Septiembre 2026: 87.906.119 a 91.500.000.
+3. `python3 cierre_mes.py DESDE HASTA cartera_mes.xlsx cartera_mes_siguiente.xlsx`
+4. Restar gastos que ella da: publicidad, nómina + ChateaPro, LLC, OpenAI.
+5. Estado de los pedidos que siguen en proceso: consultar en DROPI solo los estados grandes
+   (RECLAME EN OFICINA, NOVEDAD, EN REPARTO, EN TERMINAL DESTINO, NOVEDAD SOLUCIONADA), de a pocos.
+   Cuidado: DROPI responde 429 si se hacen muchas consultas seguidas.
+
+Septiembre 2026: gastos publicidad $142.500.000, nómina+ChateaPro $20.000.000, LLC $700.000,
+OpenAI $2.000.000. Utilidad $2.854.603 (sin ~297 pedidos en proceso).
