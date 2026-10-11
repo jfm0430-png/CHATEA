@@ -37,7 +37,7 @@ Método: `list_orders` con `status=ENTREGADO`, rango del mes, y búsqueda por `s
 
 Cobros por devolución (sumar todos como descuento por devoluciones):
 - `SALIDA DE COBRO DE DEVOLUCIÓN POR ENTREGA NO EFECTIVA`
-- `SALIDA POR COBRO DE FLETE INICIAL: <id de orden>` (ej. `...: 88919075`)
+- `SALIDA POR COBRO DE FLETE INICIAL` (puede traer un número al final; no importa cuál)
 
 Las variantes pueden traer el número de orden al final; agrupar por el texto antes de los dos puntos.
 
