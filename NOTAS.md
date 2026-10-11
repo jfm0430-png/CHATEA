@@ -27,6 +27,7 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 | Momento | Septiembre | Octubre |
 |---|---|---|
 | 10 oct 2026, ~9:05 a. m. (base) | 4.725 | 719 |
+| 10 oct 2026, ~7:10 p. m. (parcial) | 4.731 | 843 |
 
 Método: `list_orders` con `status=ENTREGADO`, rango del mes, y búsqueda por `start` con
 `result_number=1` hasta encontrar el final. Entregadas en el día = conteo de las 10 p. m. − base.
