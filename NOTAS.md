@@ -32,3 +32,11 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 
 Método: `list_orders` con `status=ENTREGADO`, rango del mes, y búsqueda por `start` con
 `result_number=1` hasta encontrar el final. Entregadas en el día = conteo de las 10 p. m. − base.
+
+## Billetera DROPI: nombres de movimientos
+
+Cobros por devolución (sumar todos como descuento por devoluciones):
+- `SALIDA DE COBRO DE DEVOLUCIÓN POR ENTREGA NO EFECTIVA`
+- `SALIDA POR COBRO DE FLETE INICIAL: <id de orden>` (ej. `...: 88919075`)
+
+Las variantes pueden traer el número de orden al final; agrupar por el texto antes de los dos puntos.
