@@ -40,3 +40,6 @@ Cobros por devolución (sumar todos como descuento por devoluciones):
 - `SALIDA POR COBRO DE FLETE INICIAL: <id de orden>` (ej. `...: 88919075`)
 
 Las variantes pueden traer el número de orden al final; agrupar por el texto antes de los dos puntos.
+
+Abonos por entregas (sumar como ganancia de entregadas):
+- `ENTRADA POR GANANCIA EN LA ORDEN COMO DROPSHIPPER`
