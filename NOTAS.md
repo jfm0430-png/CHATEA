@@ -76,3 +76,21 @@ Mes del pedido por número de orden: septiembre = 87.906.119 a 91.500.000.
 
 Septiembre 2026: gastos publicidad $142.500.000, nómina+ChateaPro $20.000.000, LLC $700.000,
 OpenAI $2.000.000. Utilidad $2.854.603 (sin ~297 pedidos en proceso).
+
+## Devoluciones por transportadora (pedidos de septiembre 2026, desde billetera)
+
+Transportadora por prefijo de guía: 240=Interrapidísimo, 014/024/114=Envía, 9936/3639=Coordinadora,
+WCO=Derocha/JAMV (Bogotá), V4=Veloces.
+
+| Transportadora | Entregados | Devueltos | % dev | Neto | Neto por pedido | Cobro por devolución |
+|---|---|---|---|---|---|---|
+| Interrapidísimo | 2.251 | 501 | 18,2 % | $71.407.847 | $25.948 | $25.614 |
+| Envía | 1.656 | 282 | 14,6 % | $65.852.266 | $33.979 | $14.057 |
+| Coordinadora | 622 | 129 | 17,2 % | $22.349.602 | $29.760 | $13.956 |
+| Derocha/JAMV | 159 | 24 | 13,1 % | $6.807.310 | $37.198 | $13.988 |
+| Veloces | 37 | 3 | 7,5 % | $1.637.578 | $40.939 | $10.950 |
+
+## Rutinas programadas
+- 7:50 a. m. diario: pedidos para salvar (oficina/novedad), Excel + push.
+- 8:40 a. m. lunes: pedidos estancados (>10 días en tránsito), Excel + push.
+- 10:00 p. m. diario: conteo de entregas.
