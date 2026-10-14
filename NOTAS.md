@@ -94,5 +94,5 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 ## Rutinas programadas
 - 7:50 a. m. lunes y viernes: pedidos para salvar = solo Interrapidísimo en RECLAME EN OFICINA, 6+ días
   (grupos 6-8 y más de 8), Excel + push. NUNCA incluir otras transportadoras, NOVEDAD ni INTENTO DE ENTREGA.
-- 8:40 a. m. lunes: pedidos estancados (>10 días en tránsito), Excel + push.
+- 8:00 a. m. lunes (corre 7:57): pedidos estancados (>10 días en tránsito), Excel + push.
 - 10:00 p. m. diario: conteo de entregas.
