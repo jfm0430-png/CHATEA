@@ -2,6 +2,7 @@
 
 - API: `https://chateapro.app/api`. El token está guardado como secreto del entorno (no se escribe aquí).
 - Límite de la API: ~1000 consultas por ventana. Los flujos de la cuenta comparten ese límite.
+- **15 oct 2026: Johana pidió NO consultar ChateaPro (ni de noche) hasta que ella diga. Ella envía los flujos por el chat.**
   Hacer consultas despacio y por partes (máx. ~100 seguidas con pausa) y parar ante un 429.
 
 ## Búsqueda pendiente: clientes interesados en otro producto
