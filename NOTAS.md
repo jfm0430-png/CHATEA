@@ -97,3 +97,12 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
   (grupos 6-8 y más de 8), Excel + push. NUNCA incluir otras transportadoras, NOVEDAD ni INTENTO DE ENTREGA.
 - 8:00 a. m. lunes (corre 7:57): pedidos estancados (>10 días en tránsito), Excel + push.
 - 10:00 p. m. diario: conteo de entregas.
+
+## Publicidad Meta (octubre 2026)
+
+- 1–14 oct: gasto $55.251.941 (~$3,95 M/día), 2.577 compras Meta, $21.440 por compra.
+- Por tipo: conversaciones $24.533/compra; "varias conversiones" $17.944; interacción maximizando compras $19.477
+  (atribución 7 días clic, más estricta). Johana prefiere interacción + maximizar compras para lanzar/relanzar.
+- Umbrales: <$22.000 rentable; $22.000–28.000 justo; >$28.000 pierde (cada pedido deja ~$26–28 mil antes de publicidad).
+- Escalar: vertical máx. +20 % cada 2–3 días; no tocar Escurridor 3 niveles ni Zapatero cubierta (las mejores).
+- 15 oct: Johana relanzó 2 Tapas tráfico (campaña nueva) y apagó la vieja. Revisar con el CSV del lunes.
