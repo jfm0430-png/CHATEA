@@ -108,3 +108,6 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - Umbrales: <$22.000 rentable; $22.000–28.000 justo; >$28.000 pierde (cada pedido deja ~$26–28 mil antes de publicidad).
 - Escalar: vertical máx. +20 % cada 2–3 días; no tocar Escurridor 3 niveles ni Zapatero cubierta (las mejores).
 - 15 oct: Johana relanzó 2 Tapas tráfico (campaña nueva) y apagó la vieja. Revisar con el CSV del lunes.
+- 15–16 oct: Johana apagó 13 conjuntos caros (≈$303.000/día, ~6 ventas/día según Meta). Pendiente: 8 conjuntos
+  al 50 % (Zapatero imágenes, Combo Cocina x2, Armario x2, Drenaje, Esc. tapa viral, Zapatero perchero imágenes)
+  y 4 nuevos (VIDEO 2/3/4/5 del 10–11 oct) a revisar el domingo. Referencia: ~200 pedidos/día en ChateaPro.
