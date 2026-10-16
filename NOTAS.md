@@ -34,6 +34,7 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 | 12 oct 2026, 10:06 p. m. (cierre) | 4.732 | 865 |
 | 13 oct 2026, 10:08 p. m. (cierre) | 4.735 | 1.020 |
 | 14 oct 2026, ~10:30 p. m. (cierre; datos de Johana en DROPI por error 502) | 4.743 | 1.160 |
+| 15 oct 2026, 10:08 p. m. (cierre) | 4.751 | 1.293 |
 
 Método: `list_orders` con `status=ENTREGADO`, rango del mes, y búsqueda por `start` con
 `result_number=1` hasta encontrar el final. Entregadas en el día = conteo de las 10 p. m. − base.
