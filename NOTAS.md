@@ -114,3 +114,6 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
   y 4 nuevos (VIDEO 2/3/4/5 del 10–11 oct) a revisar el domingo. Referencia: ~200 pedidos/día en ChateaPro.
 - 16 oct (primer día tras apagar): gasto Meta $2.954.770 (antes $3.829.222), 168 compras Meta, 184 ventas reales,
   costo real $15.816 (antes $18.929). Relanzados: Combo Baño $15.540 (8), Organizador Baño $8.157 (8), 2 Tapas oct 15 $15.131 (13).
+- Regla para revisar conjuntos (aprendida 17 oct): mirar ÚLTIMOS 7 DÍAS (no solo el mes) y cruzar con ventas reales
+  de ChateaPro ("Ventas por anuncio"; el ID de anuncio ≈ ID de conjunto ±10). Meta ve casi todas las ventas en conjuntos
+  de "compras" pero pocas en los de "conversaciones" (VIDEO 1 ZAPATERO: Meta 11, reales 21). Johana: 1 anuncio por conjunto.
