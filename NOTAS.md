@@ -112,3 +112,5 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - 15–16 oct: Johana apagó 13 conjuntos caros (≈$303.000/día, ~6 ventas/día según Meta). Pendiente: 8 conjuntos
   al 50 % (Zapatero imágenes, Combo Cocina x2, Armario x2, Drenaje, Esc. tapa viral, Zapatero perchero imágenes)
   y 4 nuevos (VIDEO 2/3/4/5 del 10–11 oct) a revisar el domingo. Referencia: ~200 pedidos/día en ChateaPro.
+- 16 oct (primer día tras apagar): gasto Meta $2.954.770 (antes $3.829.222), 168 compras Meta, 184 ventas reales,
+  costo real $15.816 (antes $18.929). Relanzados: Combo Baño $15.540 (8), Organizador Baño $8.157 (8), 2 Tapas oct 15 $15.131 (13).
