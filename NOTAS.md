@@ -122,3 +122,9 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
   Revisar el martes 21 oct. Regla: copia nunca con más presupuesto que el original; si el original sube >15 %, bajar la copia.
   Pendiente lunes: +20 % a IMÁGENES 2.0 OCT 9 (Megacombo), AGOSTO 3, SEPT 24; apagar NUEVO VOZ VIRAL, 3 NIVELES VIDEO VIEJO,
   MEGACOMBO IMAGENES (viejo).
+
+## Relanzamiento Perchero (17 oct 2026)
+- Johana relanzó TODA la campaña del Perchero (la anterior estaba muy mala). Seguimiento diario por 7 días (17 al 23 oct).
+- Datos que ella envía cada noche: CSV de conjuntos de Meta (gasto, compras, costo por compra) + pantallazo de ChateaPro "Ventas por anuncio" del día. No consultar ChateaPro.
+- Reglas: días 1 a 3 no tocar, salvo un conjunto con ~$100k gastados y 0 o 1 ventas reales. Día 4: CPA real menor a $20k se deja; entre $20k y $28k se deja y se vigila; mayor a $30k con más de $150k gastados se apaga. Día 7: decisión final y +20% a los que estén por debajo de $20k.
+- Referencias de la campaña anterior (mes): VIDEO 4 MUJER $18.840; VIDEO 1 HOMBRE copia $28.181; VIDEO 5 PERCHERO $32.043. Mejor conjunto de Perchero en general: PERCHERO AMMM SEPT 19 ($10.430, en otra campaña). Si su CPA sube más del 15% por 2 días, bajar o apagar el conjunto equivalente de la campaña nueva.
