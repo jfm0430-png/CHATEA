@@ -117,3 +117,8 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - Regla para revisar conjuntos (aprendida 17 oct): mirar ÚLTIMOS 7 DÍAS (no solo el mes) y cruzar con ventas reales
   de ChateaPro ("Ventas por anuncio"; el ID de anuncio ≈ ID de conjunto ±10). Meta ve casi todas las ventas en conjuntos
   de "compras" pero pocas en los de "conversaciones" (VIDEO 1 ZAPATERO: Meta 11, reales 21). Johana: 1 anuncio por conjunto.
+- 17 oct, relanzamientos (interacción + maximizar compras, 1 conjunto, sin animación/retoques/multianunciante):
+  ZAPATERO AMM AGOSTO 3 ($50k), VIDEO AMM JULIO 21 ESC 3 NIVELES ($50k), MEGACOMBO VIDEO 1 AMMM SEPT 15 ($40k).
+  Revisar el martes 21 oct. Regla: copia nunca con más presupuesto que el original; si el original sube >15 %, bajar la copia.
+  Pendiente lunes: +20 % a IMÁGENES 2.0 OCT 9 (Megacombo), AGOSTO 3, SEPT 24; apagar NUEVO VOZ VIRAL, 3 NIVELES VIDEO VIEJO,
+  MEGACOMBO IMAGENES (viejo).
