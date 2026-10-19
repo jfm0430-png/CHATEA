@@ -98,7 +98,7 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 | Veloces | 37 | 3 | 7,5 % | $1.637.578 | $40.939 | $10.950 |
 
 ## Rutinas programadas
-- 7:50 a. m. SOLO MIÉRCOLES (pedido de Johana 19 oct): pedidos para salvar = solo Interrapidísimo en RECLAME EN OFICINA, 6+ días
+- ~9 a. m. (corre 8:48) SOLO MIÉRCOLES (pedido de Johana 19 oct): pedidos para salvar = solo Interrapidísimo en RECLAME EN OFICINA, 6+ días
   (grupos 6-8 y más de 8), Excel + push. NUNCA incluir otras transportadoras, NOVEDAD ni INTENTO DE ENTREGA.
 - 8:00 a. m. lunes (corre 7:57): pedidos estancados (>10 días en tránsito), Excel + push.
 - 10:00 p. m. diario: conteo de entregas.
