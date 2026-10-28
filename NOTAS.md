@@ -49,6 +49,7 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 
 Método: `list_orders` con `status=ENTREGADO`, rango del mes, y búsqueda por `start` con
 `result_number=1` hasta encontrar el final. Entregadas en el día = conteo de las 10 p. m. − base.
+Desde el 27 oct (pedido de Johana): cada reporte diario incluye también cuántas se entregaron el día anterior (última fila de cierre − penúltima) para comparar.
 
 ## Billetera DROPI: nombres de movimientos
 
