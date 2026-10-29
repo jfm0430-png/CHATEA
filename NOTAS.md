@@ -49,6 +49,8 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 | 27 oct 2026, 10:12 p. m. (cierre) | 4.773 | 3.108 |
 | 28 oct 2026, 10:12 p. m. (cierre) | 4.773 | 3.264 |
 
+**Septiembre 2026 CERRADO (28 oct, pedido de Johana): total definitivo 4.773 entregados (≈ $181,4M a $38.000 c/u). Ya no se consulta ni se reporta; su columna queda fija.**
+
 Método: `list_orders` con `status=ENTREGADO`, rango del mes, y búsqueda por `start` con
 `result_number=1` hasta encontrar el final. Entregadas en el día = conteo de las 10 p. m. − base.
 Desde el 27 oct (pedido de Johana): cada reporte diario incluye también cuántas se entregaron el día anterior (última fila de cierre − penúltima) para comparar.
