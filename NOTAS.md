@@ -25,8 +25,8 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 
 ## Conteo de entregas (DROPI, estado ENTREGADO, por mes de creación)
 
-| Momento | Septiembre | Octubre |
-|---|---|---|
+| Momento | Septiembre | Octubre | Noviembre |
+|---|---|---|---|
 | 10 oct 2026, ~9:05 a. m. (base) | 4.725 | 719 |
 | 10 oct 2026, ~7:10 p. m. (parcial) | 4.731 | 843 |
 | 10 oct 2026, 10:00 p. m. (cierre) | 4.732 | 845 |
@@ -51,6 +51,7 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 | 29 oct 2026, 10:11 p. m. (cierre) | 4.773 | 3.424 |
 | 30 oct 2026, 10:11 p. m. (cierre) | 4.773 | 3.609 |
 | 31 oct 2026, 10:12 p. m. (cierre) | 4.773 | 3.747 |
+| 1 nov 2026, 10:11 p. m. (cierre) | 4.773 | 3.760 | 0 |
 
 **Septiembre 2026 CERRADO (28 oct, pedido de Johana): total definitivo 4.773 entregados (≈ $181,4M a $38.000 c/u). Ya no se consulta ni se reporta; su columna queda fija.**
 
