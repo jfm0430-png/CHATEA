@@ -171,3 +171,10 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - 22 oct, optimización (campañas 16-22 oct, CPA en Meta): campañas de compras $17.185 (364 compras); de conversaciones $23.294 (301); mixtas (conjuntos AMM de compras + viejos de conversaciones) $16.146 (654). Regla nueva: lo nuevo y lo relanzado, a maximizar compras. No cambiar la optimización de ganadores de conversaciones que siguen vendiendo en ChateaPro (9 Niveles, Esc 3N SEPT 12, Dispensador Mayo 5).
 - Nómina (Johana, 24 oct), de lunes a sábado: Harold $120.000/día; Danna $110.000; Valeria, Ana y Camilo $100.000; Camilo además los domingos a $120.000. Más horas extras a veces. Octubre (27 días L-S + 4 domingos) ≈ $14.790.000. En la billetera de septiembre también aparecen pagos a Daniel ($3,28M) y Oscar ($1,62M): pendiente confirmar si siguen. Pendiente: valor de ChateaPro.
 - Gastos fijos actualizados (Johana, 24 oct): nómina fija $14.790.000 (octubre, L-S) + Daniel y Oscar $3.000.000 + ChateaPro $1.400.000 + OpenAI $2.000.000 + LLC $700.000 = $21.890.000 al mes (≈$730.000/día) + horas extras. Usar esto en el cierre de octubre (antes se usaba $22.700.000).
+
+## Cierre octubre 2026 (7 nov; export de órdenes al 6 nov + cartera del 1 oct al 6 nov)
+
+- Pedidos 5.673: cancelados 217 (3,8%), entregados 4.336, devueltos 681 (13,6% de los cerrados), en camino 224, en oficina Inter 215.
+- Ganancia de entregados $170.189.088 − devoluciones cobradas $12.919.196 − sin cobrar aún (48) ~$1.023.565 − garantías netas $443.613 − Meta $117.775.083 − fijos $21.890.000 = **$16.137.631 con lo cerrado**.
+- Pendientes estimados: en camino +$5,96M (80% de entrega) y oficina +$0,87M (50%) → **≈ $23,0M al final** (sin horas extras).
+- Para comparar: septiembre quedó en ~$3,6M con $142,4M de Meta.
