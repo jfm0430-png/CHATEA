@@ -177,4 +177,9 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - Pedidos 5.673: cancelados 217 (3,8%), entregados 4.336, devueltos 681 (13,6% de los cerrados), en camino 224, en oficina Inter 215.
 - Ganancia de entregados $170.189.088 − devoluciones cobradas $12.919.196 − sin cobrar aún (48) ~$1.023.565 − garantías netas $443.613 − Meta $117.775.083 − fijos $21.890.000 = **$16.137.631 con lo cerrado**.
 - Pendientes estimados: en camino +$5,96M (80% de entrega) y oficina +$0,87M (50%) → **≈ $23,0M al final** (sin horas extras).
-- Para comparar: septiembre quedó en ~$3,6M con $142,4M de Meta.
+- Para comparar: septiembre (ver cierre definitivo abajo) quedó en ≈ $0.
+
+## Cierre DEFINITIVO septiembre 2026 (7 nov; export órdenes al 6 nov + cartera 1 sep–6 nov)
+
+- 6.464 pedidos: cancelados 464 (7,2%), entregados 4.774, devueltos 1.200 (20,1%), en camino 26.
+- Ganancia entregados $188.811.782 − devoluciones cobradas $23.346.568 − sin cobrar (34) ~$639.483 − garantías netas $230.447 − Meta $142.449.961 − fijos $22.700.000 = **−$554.677**; con los 26 en camino (+$0,68M) ≈ **+$0,1M (empate)**. El estimado anterior de ~$3,6M se quedó corto en devoluciones (salieron 20,1%).
