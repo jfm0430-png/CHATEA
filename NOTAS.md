@@ -182,6 +182,14 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - Pendientes estimados: en camino +$5,96M (80% de entrega) y oficina +$0,87M (50%) → **≈ $23,0M al final** (sin horas extras).
 - Para comparar: septiembre (ver cierre definitivo abajo) quedó en ≈ $0.
 
+## Mapeo de productos DROPI (rentabilidad octubre, 9 nov)
+
+- Organizador Escurridor Anticorrosión (2299664) = Organizador cocina RUEDAS (Johana, 9 nov).
+- Escurridor 1 tapa = 2241514 (Escurridor Sencillo con Accesorios) + combos con ollas 2240221 (Combo escurridor 1 tapa + set ollas) y 2241521 (Juego de Ollas + Accesorios Escurridor).
+- Portacomidas lonchera práctico y moderno (1886181) = Lunch Box.
+- Escurridor 3 niveles = 789089, 1971211, 823845, 914666, 706852, 1685929, 2196541. Precio $99.900, proveedor ~$50.000: deja ~$28.500 por entregado (margen bajo).
+- Rentabilidad octubre por producto (9 nov): total antes de fijos $46,9M; ganancia del mes ≈ $25,0M. Mejores: Megacombo $7,9M, familia ollas $4,3M, Zapatero 6N $4,8M. Pierden: Escurridor 1 tapa −$2,6M (33% devolución), Dispensador −$1,3M, Seguidores −$1,7M.
+
 ## Cierre DEFINITIVO septiembre 2026 (7 nov; export órdenes al 6 nov + cartera 1 sep–6 nov)
 
 - 6.464 pedidos: cancelados 464 (7,2%), entregados 4.774, devueltos 1.200 (20,1%), en camino 26.
