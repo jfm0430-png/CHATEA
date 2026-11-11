@@ -186,7 +186,7 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 
 ## Bono del equipo (Johana, 10 nov)
 
-- 5 personas. Se mide con el "% Operación completada" de DROPI (entregados ÷ pedidos generados, sin contar los que siguen en camino; los cancelados cuentan como no completados), filtro del mes completo, mirado el día 15 del mes siguiente.
+- 5 personas. Se mide con el "% Operación completada" de DROPI = entregados ÷ pedidos despachados (sin cancelados; el total de abajo queda fijo, ~5.365 en octubre), así que el % SOLO SUBE a medida que se entregan los que seguían en camino (corregido 10 nov: antes creí que bajaba). Filtro del mes completo, mirado el día 15 del mes siguiente.
 - 83% → $150.000; 84% → $250.000; 85% → $500.000 por persona.
 - Octubre: 82,36% el 10 nov (4.419 entregados de 5.673; ~308 en camino). Estimado final ~81,3%. Recordatorio el 15 nov para comparar.
 
