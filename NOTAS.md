@@ -62,6 +62,7 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 | 9 nov 2026, 10:11 p. m. (cierre) | 4.773 | 4.416 | 676 |
 | 10 nov 2026, 10:12 p. m. (cierre) | 4.773 | 4.447 | 917 |
 | 11 nov 2026, 10:11 p. m. (cierre) | 4.773 | 4.461 | 1.130 |
+| 12 nov 2026, 10:15 p. m. (cierre) | 4.773 | 4.477 | 1.341 |
 
 **Septiembre 2026 CERRADO (28 oct, pedido de Johana): total definitivo 4.773 entregados (≈ $181,4M a $38.000 c/u). Ya no se consulta ni se reporta; su columna queda fija.**
 
