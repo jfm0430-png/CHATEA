@@ -8,6 +8,7 @@
 ## REPORTE DIARIO DE ENTREGADOS (Johana, 14 nov 2026) — darlo TODOS los días
 
 Johana quiere cada día: **total entregado en el día** y **total entregado del mes**. Fuente: conector DROPI.
+- Envío automático: tarea programada todos los días a las 9:37 p. m. hora Colombia (pidió 10 p. m.).
 - DROPI no filtra por fecha de entrega: `list_orders` filtra por fecha de CREACIÓN y no da el total.
 - Conteo: `list_orders(status="ENTREGADO", from, until, result_number=1, start=N)` y búsqueda binaria
   del último `start` con resultado; al final una página de 10–15 para el número exacto (~10–15 consultas).
@@ -20,7 +21,7 @@ Johana quiere cada día: **total entregado en el día** y **total entregado del 
 Conteos (pedidos ENTREGADO por mes de creación, fecha y hora de la consulta):
 | Fecha consulta | Octubre | Noviembre | Suma | Entregados del día |
 |---|---|---|---|---|
-| 14 nov ~mañana | 4.483 | 1.579 | 6.062 | — (primer conteo, sin base) |
+| 13 nov ~10:45 p. m. (Colombia) | 4.483 | 1.579 | 6.062 | — (primer conteo, sin base) |
 
 ## Búsqueda pendiente: clientes interesados en otro producto
 
