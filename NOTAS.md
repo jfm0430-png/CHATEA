@@ -210,6 +210,7 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - 5 personas. Se mide con el "% Operación completada" de DROPI = entregados ÷ pedidos despachados (sin cancelados; el total de abajo queda fijo, ~5.365 en octubre), así que el % SOLO SUBE a medida que se entregan los que seguían en camino (corregido 10 nov: antes creí que bajaba). Filtro del mes completo, mirado el día 15 del mes siguiente.
 - 83% → $150.000; 84% → $250.000; 85% → $500.000 por persona.
 - Octubre: 82,36% el 10 nov (4.419 entregados de 5.673; ~308 en camino). Estimado final ~81,3%. Recordatorio el 15 nov para comparar.
+- 13 nov noche (conector DROPI): 4.483 entregados ÷ 5.365 = 83,56%. Para 84% faltan 24 (4.507); para 85% faltan 78 (4.561). Conector: 5.673 pedidos, 213 cancelados, 40 rechazados (5.420 sin ellos; DROPI usa ~5.365, excluye ~55 más).
 
 ## Mapeo de productos DROPI (rentabilidad octubre, 9 nov)
 
