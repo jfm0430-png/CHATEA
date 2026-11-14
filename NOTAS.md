@@ -5,6 +5,23 @@
 - **15 oct 2026: Johana pidió NO consultar ChateaPro (ni de noche) hasta que ella diga. Ella envía los flujos por el chat.**
   Hacer consultas despacio y por partes (máx. ~100 seguidas con pausa) y parar ante un 429.
 
+## REPORTE DIARIO DE ENTREGADOS (Johana, 14 nov 2026) — darlo TODOS los días
+
+Johana quiere cada día: **total entregado en el día** y **total entregado del mes**. Fuente: conector DROPI.
+- DROPI no filtra por fecha de entrega: `list_orders` filtra por fecha de CREACIÓN y no da el total.
+- Conteo: `list_orders(status="ENTREGADO", from, until, result_number=1, start=N)` y búsqueda binaria
+  del último `start` con resultado; al final una página de 10–15 para el número exacto (~10–15 consultas).
+- **Total del mes** = pedidos creados en el mes en curso que hoy están ENTREGADO (subirá unos días tras el cierre).
+- **Entregados del día** ≈ (entregados de mes en curso + mes anterior hoy) − (lo mismo ayer). Por eso
+  hay que anotar el conteo de cada día abajo. El primer día de un mes nuevo, comparar el mes anterior
+  con su conteo de ayer y sumar los del mes nuevo. No es exacto: no cuenta pedidos más viejos
+  ni los que salen de ENTREGADO; el dato exacto está en la billetera ("ganancia en la orden").
+
+Conteos (pedidos ENTREGADO por mes de creación, fecha y hora de la consulta):
+| Fecha consulta | Octubre | Noviembre | Suma | Entregados del día |
+|---|---|---|---|---|
+| 14 nov ~mañana | 4.483 | 1.579 | 6.062 | — (primer conteo, sin base) |
+
 ## Búsqueda pendiente: clientes interesados en otro producto
 
 ChateaPro es mono producto: el chat queda con el flujo del primer producto y no puede enviar otro.
