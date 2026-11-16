@@ -23,6 +23,7 @@ Conteos (pedidos ENTREGADO por mes de creación, fecha y hora de la consulta):
 |---|---|---|---|---|
 | 13 nov ~10:45 p. m. (Colombia) | 4.483 | 1.579 | 6.062 | — (primer conteo, sin base) |
 | 14 nov 9:38 p. m. (Colombia) | 4.487 | 1.783 | 6.270 | **208** (oct +4, nov +204) |
+| 15 nov 9:38 p. m. (Colombia, domingo) | 4.487 | 1.803 | 6.290 | **20** (oct +0, nov +20) |
 
 ## Búsqueda pendiente: clientes interesados en otro producto
 
