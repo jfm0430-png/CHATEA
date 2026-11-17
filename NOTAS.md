@@ -66,6 +66,7 @@ el enlace `https://wa.me/c/573169859773`. Buscar chats donde un mensaje saliente
 | 13 nov 2026, 10:30 p. m. (cierre; cifras de Johana en DROPI, conector caído) | 4.773 | 4.483 | 1.579 |
 | 14 nov 2026, 10:13 p. m. (cierre) | 4.773 | 4.487 | 1.783 |
 | 15 nov 2026, 10:14 p. m. (cierre; domingo) | 4.773 | 4.487 | 1.803 |
+| 16 nov 2026, 10:12 p. m. (cierre; festivo) | 4.773 | 4.487 | 1.808 |
 
 **Septiembre 2026 CERRADO (28 oct, pedido de Johana): total definitivo 4.773 entregados (≈ $181,4M a $38.000 c/u). Ya no se consulta ni se reporta; su columna queda fija.**
 
