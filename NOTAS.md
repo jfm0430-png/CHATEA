@@ -193,6 +193,7 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - Pendientes estimados: en camino +$5,96M (80% de entrega) y oficina +$0,87M (50%) → **≈ $23,0M al final** (sin horas extras).
 - Para comparar: septiembre (ver cierre definitivo abajo) quedó en ≈ $0.
 - **Actualización 18 nov** (export órdenes 18 nov + cartera oct): entregados 4.497 (ganancia $179.319.389 según columna GANANCIA del export), devueltos 884 incl. 40 rechazados (16,4% de los cerrados; Inter 499) → cobrados $14.057.153 (689) + estimados $4.132.434 (195) = $18.189.587; garantías −$443.613; Meta −$117.775.083; fijos −$21.890.000 → **$21.021.106 con lo cerrado**. Pendientes 75 (29 oficina) ≈ +$1,5M → **≈ $22,5M final**, antes del bono del equipo ($0,75M–$1,25M).
+- Análisis devoluciones octubre (18 nov): 884 de 5.381 cerrados (16,4%), $18,2M. Inter 17,7% ($12,8M, 70% del costo; $25.585 por devolución vs ~$14.100 Envía); Inter oficina 18,3% ($9,6M). Envía: motivos rehúsa 143, coordinar entrega 107, dirección no existe 24. Peores ciudades: Tumaco 34% (Inter oficina 40%), Cali 24% (todas las transportadoras ~22-28%), Bogotá 18% (Envía 22% vs Derocha 14%). Domingo 21%. Pedidos <$90k 19% vs $160k+ 15%. Semana 1 de oct 20,5% → semana 4-5 ~12,5%. Productos peores: Esquinero+Dispensador 27%, Escurridor sencillo 26%, Eleganza 25%, Kit maleta 5en1 24% ($1,1M), Dispensador crema 22%, Escurridor 2N combo 21% ($1,45M, el más caro), Zapatero 5N perchero 20%. Mejores: Combo baño+escurridor doble 10%, Bolso morral 10,5%, Zapatero 6N 13,7%.
 
 ## Bono del equipo (Johana, 10 nov)
 
