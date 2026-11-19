@@ -192,6 +192,7 @@ WCO=Derocha/JAMV (Bogotá), V4=Veloces.
 - Ganancia de entregados $170.189.088 − devoluciones cobradas $12.919.196 − sin cobrar aún (48) ~$1.023.565 − garantías netas $443.613 − Meta $117.775.083 − fijos $21.890.000 = **$16.137.631 con lo cerrado**.
 - Pendientes estimados: en camino +$5,96M (80% de entrega) y oficina +$0,87M (50%) → **≈ $23,0M al final** (sin horas extras).
 - Para comparar: septiembre (ver cierre definitivo abajo) quedó en ≈ $0.
+- **Actualización 18 nov** (export órdenes 18 nov + cartera oct): entregados 4.497 (ganancia $179.319.389 según columna GANANCIA del export), devueltos 884 incl. 40 rechazados (16,4% de los cerrados; Inter 499) → cobrados $14.057.153 (689) + estimados $4.132.434 (195) = $18.189.587; garantías −$443.613; Meta −$117.775.083; fijos −$21.890.000 → **$21.021.106 con lo cerrado**. Pendientes 75 (29 oficina) ≈ +$1,5M → **≈ $22,5M final**, antes del bono del equipo ($0,75M–$1,25M).
 
 ## Bono del equipo (Johana, 10 nov)
 
